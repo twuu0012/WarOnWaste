@@ -1,0 +1,20 @@
+.cal_title{
+    font-family: 'Popins', Serif;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 3px;
+
+}
+.cal_button{
+    padding: 6px 12px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    alignment: center;
+}
+.cal_button:hover {
+    border: 2px solid cornflowerblue;
+    color: cornflowerblue;
+}
