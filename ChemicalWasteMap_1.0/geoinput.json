@@ -1,0 +1,286 @@
+[{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [ 145.044930, -37.756370]
+    },
+    properties: {
+      title: 'Banyule Waste Recover Centre',
+      description: 'Address: 307-325 Waterdale Road, Bellfield (corner Banksia Street); Phone: 03 9490 4222'
+    }
+  },
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.853410, -37.713860]
+    },
+    properties: {
+      title: 'Brimbank City Council Depot',
+      description: 'Address: Stadium Drive, Keilor Park; Phone: 03 9249 4000'
+    }
+  },
+ {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.985590, -37.717740]
+    },
+    properties: {
+      title: 'Darebin Resource Recovery Centre',
+      description: 'Address: Kurnai Avenue, Reservoir (off Henty Street); Phone: 03 8470 8888'
+    }
+  },
+ {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.603370, -37.699910]
+    },
+    properties: {
+      title: 'Melton Recycling Facility',
+      description: 'Address: 33-41 Ferris Road, Melton; Phone: 03 9743 1983'
+    }
+  },
+ {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.065970,-38.234820]
+    },
+    properties: {
+      title: 'Mornington Waste Disposal Centre',
+      description: 'Address: 134 Watt Road, Mornington; Phone: 1300 850 600'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.141800,-37.901200]
+    },
+    properties: {
+      title: 'Monash Waste Transfer & Recycling Station',
+      description: 'Address: 380 Ferntree Gully Rd, Notting Hill; Phone: 03 9518 3767'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.270570, -38.115040]
+    },
+    properties: {
+      title: 'City of Casey Transfer and Recycling Centre',
+      description: 'Address: Cemetery Road, Cranbourne; Phone: 03 09705 5200'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [143.818020,-37.558990]
+    },
+    properties: {
+      title: 'Ballarat Transfer Station',
+      description: 'Address: Gillies Street South, Ballarat; Phone: 03 5334 2621'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.244340, -36.725980]
+    },
+    properties: {
+      title: 'Eaglehawk Eco Centre',
+      description: 'Address: 189 Upper California Gully Road, Eaglehawk; Phone: 03 5546 3467'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.349320, -38.114930]
+    },
+    properties: {
+      title: 'Geelong Resource Recovery Centre',
+      description: 'Address: 100 Douro Street, North Geelong; Phone: 03 5227 0270'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [146.423470, -38.218480]
+    },
+    properties: {
+      title: 'Morwell Transfer Station',
+      description: 'Address: Porters Street, Morwell; Phone: 1300 367 700'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.376270, -36.347540]
+    },
+    properties: {
+      title: 'Shepparton Transfer Station',
+      description: 'Address: Wanganui Road, Shepparton; Phone: 03 5832 9700'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.603370,-37.699910]
+    },
+    properties: {
+      title: 'Wodonga - Kane Road Waste Transfer Station',
+      description: 'Address: Kane Road, Wodonga; Phone: 02 6022 9300'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.132770,-38.123870]
+    },
+    properties: {
+      title: 'Frankston City Council',
+      description: 'Address: Council Operations Depot, 3 Buna Ave; Collection Time: 8.00am-4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [142.459440,-38.341520]
+    },
+    properties: {
+      title: 'Warrnambool City Council/Shire of Moyne',
+      description: 'Address: Livestock Exchange (Saleyards), Warrnambool-Caramut Rd; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.943860,-37.828990]
+    },
+    properties: {
+      title: 'Port Phillip Council',
+      description: 'Address: Port Phillip Resource Recovery Centre, Corner White St and Boundary St; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [143.818020,-37.558990]
+    },
+    properties: {
+      title: 'Ballarat City Council',
+      description: 'Address: Ballarat Transfer Station, Gillies St South; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.766630,-36.131130]
+    },
+    properties: {
+      title: 'Golden Plains Shire Council',
+      description: 'Address: Carpark at rear of Council Offices, Enter off Moore St; Collection Time: 8.00am – 11.00am'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.023410,-37.646840]
+    },
+    properties: {
+      title: 'City of Whittlesea',
+      description: 'Address: Council Operations Depot, 68-96 Houston St; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [146.306760,-36.365770]
+    },
+    properties: {
+      title: 'Rural City of Wangaratta',
+      description: 'Address: Council Operations Depot, Newman St; Collection Time: 8.00am – 11.00am'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [146.679210,-36.373080]
+    },
+    properties: {
+      title: 'Indigo Shire Council',
+      description: 'Address: Shire Depot, Radcliffe Rd; Collection Time: 1.30pm-4.30 pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [147.422750,-36.332010]
+    },
+    properties: {
+      title: 'Towong Shire Council',
+      description: 'Address: Shire Depot, Wagara Rd; Collection Time: 1.30pm-4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [144.717510,-37.875520]
+    },
+    properties: {
+      title: 'Wyndham City Council',
+      description: 'Address: Municipal Depot (Pound and Nursery), Old Geelong Rd; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [147.619770,-37.811430]
+    },
+    properties: {
+      title: 'East Gippsland Shire',
+      description: 'Address: Howitt Park, Main St; Collection Time: 8.00am – 11.00am'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.941090,-38.154440]
+    },
+    properties: {
+      title: 'Baw Baw Shire',
+      description: 'Address: Council Operations Depot, 188 Normanby St; Collection Time: 2.00pm-5.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [145.178400,-37.804560]
+    },
+    properties: {
+      title: 'City of Greater Dandenong',
+      description: 'Address: Car Park, Rear of Town Hall, 395-397 Springvale Rd; Collection Time: 8.00am – 4.00pm'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [143.550510,-35.326790]
+    },
+    properties: {
+      title: 'Swan Hill Shire Council',
+      description: 'Address: Council Depot, 130 Karinie St; Collection Time: 8.00am – 11.00am'
+    }
+  },{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [143.959190,-35.664480]
+    },
+    properties: {
+      title: 'Gannawarra Shire Council',
+      description: 'Address: Transfer Station, Kerang-Murrabit Rd; Collection Time: 1.30pm-4.30pm'
+    }
+  }
+]
