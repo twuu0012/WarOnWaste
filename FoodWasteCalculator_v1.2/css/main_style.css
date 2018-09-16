@@ -1,0 +1,97 @@
+/*Price and weight button*/
+.price_button, .weight_button{
+    font-family: Arial;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    alignment: center;
+    display: inline-block;
+    width: 45%;
+    margin: 5px;
+    letter-spacing: 1px;
+
+}
+
+.price_button{
+    float: left;
+}
+
+.price_button:hover, .weight_button:hover {
+    border: 2px solid cornflowerblue;
+    color: cornflowerblue;
+}
+
+.price_button:focus, .weight_button:focus {
+    border: 2px solid lightgrey;
+    color: lightgrey;
+    outline-style: none;
+}
+
+/*Content of price*/
+h4 {
+    font-family: Arial;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+label {
+    font-family: Arial;
+    text-align: center;
+    font-size: 15px;
+}
+
+.submit_button, .submit_button_2 {
+    font-family: Arial;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    outline-style: none;
+    height: 30px;
+    width: 20%;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.submit_button:focus, .submit_button_2:focus {
+    border: 2px solid cornflowerblue;
+    color: cornflowerblue;
+    outline-style: none;
+}
+
+.submit_button:hover, .submit_button_2:hover {
+    border-color: orangered;
+    color: orangered;
+}
+
+.number_1, .number_2, #que_4 {
+    border:2px solid grey;
+    background-color: white;
+    padding: 10px 5px;
+    width: 20%;
+    border-radius: 10px;
+    outline-style: none;
+    font-size: 15px;
+    font-family: Arial;
+
+}
+
+#que_3 {
+    border: 2px solid black;
+    background-color: white;
+    font-size: 15px;
+    cursor: pointer;
+    width: 20%;
+    outline-style: none;
+}
+
+#que_3-content {
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 10px 5px;
+    background-color: transparent;
+    min-width: 20%;
+}
