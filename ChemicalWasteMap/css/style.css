@@ -1,0 +1,11 @@
+#map {
+    height: 600px;
+    width: 100%;
+}
+
+.mapboxgl-popup{
+
+    font-family: Arial, serif;
+    font-size: 12px;
+
+}
